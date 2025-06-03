@@ -19,7 +19,7 @@ This repository is my way of :
 ### Phase 2: Network Security
   - OSI Model, Protocols, Packet Sniffing
   - Tools: Wireshark, Nmap
-  - 
+   
 ### Phase 3: SIEM & Log Analysis
   - Tools: Splunk, Wazuh, Elk Stack
   - Creating alerts, dashboards, and analyzing logs
